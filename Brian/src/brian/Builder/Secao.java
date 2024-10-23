@@ -4,10 +4,7 @@
  */
 package brian.Builder;
 
-/**
- *
- * @author Kaique
- */
+
 public class Secao {
     private String nome;
 

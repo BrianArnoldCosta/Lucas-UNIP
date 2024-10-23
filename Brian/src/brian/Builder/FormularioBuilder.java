@@ -4,10 +4,7 @@
  */
 package brian.Builder;
 
-/**
- *
- * @author Kaique
- */
+
 public interface FormularioBuilder {
     void adicionarSecao(String nome);
     Formulario construirFormulario();

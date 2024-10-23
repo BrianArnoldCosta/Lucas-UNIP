@@ -4,10 +4,7 @@
  */
 package brian;
 
-/**
- *
- * @author Kaique
- */
+
 public class Brian {
 
     /**

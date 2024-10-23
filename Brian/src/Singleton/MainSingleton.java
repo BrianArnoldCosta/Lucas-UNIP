@@ -4,10 +4,7 @@
  */
 package Singleton;
 
-/**
- *
- * @author Kaique
- */
+
 public class MainSingleton {
     public static void main(String[] args) {
         ConfiguracaoSistema config = ConfiguracaoSistema.getInstancia();

@@ -7,10 +7,7 @@ package brian.Builder;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Kaique
- */
+
 public class Formulario {
     private List<Secao> secoes = new ArrayList<>();
 

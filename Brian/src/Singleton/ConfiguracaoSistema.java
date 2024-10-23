@@ -4,10 +4,7 @@
  */
 package Singleton;
 
-/**
- *
- * @author Kaique
- */
+
 public class ConfiguracaoSistema {
     private static ConfiguracaoSistema instancia;
     private String nomeSistema;
